@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture handout on magnetic properties of materials.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/617c78803bab50a03f94bbc661b90dab_magnets3.pdf
+file: /media/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/617c78803bab50a03f94bbc661b90dab_magnets3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Magnets 3
 uid: 617c7880-3bab-50a0-3f94-bbc661b90dab

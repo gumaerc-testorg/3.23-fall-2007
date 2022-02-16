@@ -4,8 +4,13 @@ description: Lecture presentation on semiconductor quantum wells, photoluminesce
   spectroscopy, electroluminescence, injection current, threshold gain, slope efficiency,
   solid state lasers, plasmons, plasmonics, polarons, electron transfer, ferrous-ferric
   self-exchange, the color of gems, and inelastic light scattering.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1494fa88caf273af1db9092d3ab8df63_lec25.pdf
+file: /media/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1494fa88caf273af1db9092d3ab8df63_lec25.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Last Lecture!
 uid: 1494fa88-caf2-73af-1db9-092d3ab8df63

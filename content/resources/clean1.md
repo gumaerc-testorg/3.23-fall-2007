@@ -5,8 +5,13 @@ description: "Introductory lecture presentation on electrical, optical, and magn
   \ materials science, the physical origin of material properties, classical mechanics,\
   \ quantum mechanics, particles, fields, waves, wave-particle duality, and  the Schr\xF6\
   dinger equation."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/829ab4714beea8056e22cbf798022215_clean1.pdf
+file: /media/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/829ab4714beea8056e22cbf798022215_clean1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Waves Mechanics
 uid: 829ab471-4bee-a805-6e22-cbf798022215
