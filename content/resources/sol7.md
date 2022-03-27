@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2a5647ca-7f8f-65bc-9a05-056a736fe505
 resourcetype: Document
 title: 'Homework #7 Solutions'
 uid: b31cbef9-e335-30bc-a919-c4d77fbdb8d0

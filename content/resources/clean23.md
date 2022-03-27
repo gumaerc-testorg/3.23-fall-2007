@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5b1fc039-9fef-b255-e45d-0bccbea70b5f
 resourcetype: Document
 title: "Fermi\u2019s Golden Rule"
 uid: 1ee0225f-846e-fb56-de3d-ea54ecfbf1ff

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2a5647ca-7f8f-65bc-9a05-056a736fe505
 resourcetype: Document
 title: 'Homework #5'
 uid: c292d599-bd45-91b7-e66f-1c4915cc90ff

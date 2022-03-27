@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5b1fc039-9fef-b255-e45d-0bccbea70b5f
 resourcetype: Document
 title: ERIODICPERIODICPERIODICPERIODICPE
 uid: 8b6d8491-1e5d-9fe4-ea42-c3243313635d
