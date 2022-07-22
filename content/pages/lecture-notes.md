@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: 'This section provides the schedule of lecture topics for the course
+  along with lecture notes for the Electronic and Optical units of the course. The
+  material for the Magnetics unit is not available at this time. '
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 5b1fc039-9fef-b255-e45d-0bccbea70b5f
 ---
@@ -39,10 +45,10 @@ UN-ANNOTATED
 From particles to waves: the Schrödinger equation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7 MB]({{< baseurl >}}/resources/lec1))
+({{% resource_link d033eab9-e3d7-1559-d812-9ca479f9f51f "PDF - 1.7 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3 MB]({{< baseurl >}}/resources/clean1))
+({{% resource_link 829ab471-4bee-a805-6e22-cbf798022215 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,10 +60,10 @@ From particles to waves: the Schrödinger equation
 The mechanics of quantum mechanics: operators, expectation values
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.8 MB]({{< baseurl >}}/resources/lec2))
+({{% resource_link d51c78e0-530c-bc5c-d514-00154d19f910 "PDF - 1.8 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean2))
+({{% resource_link 1c83d57a-0fc5-bfff-130a-ec7e1b4c9c9e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,10 +81,10 @@ The harmonic oscillator
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3 MB]({{< baseurl >}}/resources/lec3))
+({{% resource_link ba5f84d8-fd27-8417-996a-de3cfc5f403b "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean3))
+({{% resource_link 55087bf9-ce2a-0c80-c588-e7f10200d687 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,10 +96,10 @@ The harmonic oscillator
 The hydrogen atom and the periodic table
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.4 MB]({{< baseurl >}}/resources/lec4))
+({{% resource_link c967fe07-2464-ca7c-67ff-64bda47dbd1f "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0 MB]({{< baseurl >}}/resources/clean4))
+({{% resource_link a4c8c890-e5ac-1d59-942f-4ca9607e3405 "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,10 +111,10 @@ The hydrogen atom and the periodic table
 Periodicity and phonons
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec5))
+({{% resource_link 83e624f8-5954-895c-6a87-ef259b2d9ada "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean5))
+({{% resource_link 213d246f-8b38-50b2-29ea-3f527f572720 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,10 +126,10 @@ Periodicity and phonons
 Electrons in a lattice: Bloch's theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5 MB]({{< baseurl >}}/resources/lec6))
+({{% resource_link 7b103558-fe0c-96da-daf1-5e9a7ce77ba2 "PDF - 1.5 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean6))
+({{% resource_link 992befec-1e95-f2c8-9bf4-8203a5b292d5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,10 +141,10 @@ Electrons in a lattice: Bloch's theorem
 The nearly-free electron model
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.0 MB]({{< baseurl >}}/resources/lec7))
+({{% resource_link bdee98a0-206c-a9a7-69be-9280799802c0 "PDF - 2.0 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1 MB]({{< baseurl >}}/resources/clean7))
+({{% resource_link 5800ad67-59c7-b34c-285d-3ccc7f58c10c "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,10 +162,10 @@ Band structures
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.3 MB]({{< baseurl >}}/resources/lec8))
+({{% resource_link 8b6d8491-1e5d-9fe4-ea42-c3243313635d "PDF - 3.3 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean8))
+({{% resource_link 6f349951-d2f9-5813-100f-1a5c119f8ca4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,10 +177,10 @@ Band structures
 Semiconductors and insulators
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5 MB]({{< baseurl >}}/resources/lec9))
+({{% resource_link 49728ee6-fbac-8503-c94b-5a9aab74242c "PDF - 1.5 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean9))
+({{% resource_link 3d028542-d1fa-3737-380c-b3c7ff4636bc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,10 +192,10 @@ Semiconductors and insulators
 Band structure engineering
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.4 MB]({{< baseurl >}}/resources/lec10))
+({{% resource_link 1fff6331-3d2d-01a1-1465-e9dd474c9f78 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean10))
+({{% resource_link 1e9c164a-3eff-f4ba-9655-846180155a5c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,10 +207,10 @@ Band structure engineering
 Transport of heat and electricity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.0 MB]({{< baseurl >}}/resources/lec11))
+({{% resource_link 899db3de-a569-bf0b-70cc-96c0a32df793 "PDF - 2.0 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean11))
+({{% resource_link 17b969c3-a127-60b6-5b7f-a011fbc06edb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,10 +222,10 @@ Transport of heat and electricity
 Inhomogeneous and hot carriers in semiconductors
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.9 MB]({{< baseurl >}}/resources/lec12))
+({{% resource_link 378934ae-2e6b-4f84-73d6-d8ba84b23161 "PDF - 1.9 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean12))
+({{% resource_link 4c646690-79cd-d28d-8e5c-6002fe479f01 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,10 +252,10 @@ Mid-term exam (during class, 1:30 hours)
 The p-n diode
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/lec13))
+({{% resource_link 8431866a-0747-4616-3c59-9abc9f3d6512 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean13))
+({{% resource_link 64029afd-c49d-0116-3b30-1d550ab09934 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -267,10 +273,10 @@ The p-n diode
 Optical materials and refractive index
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.1 MB]({{< baseurl >}}/resources/lec14))
+({{% resource_link e1c4da90-c17f-c62f-4f6e-789dff91155a "PDF - 2.1 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean14))
+({{% resource_link 669aac7f-94a2-4f38-133c-913e56fde388 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,10 +288,10 @@ Optical materials and refractive index
 Electromagnetism in dielectric media
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec15))
+({{% resource_link ffbcb29d-c4bc-a37b-99ea-45f70439d4da "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.3 MB]({{< baseurl >}}/resources/clean15))
+({{% resource_link 24a5e9d4-b751-258b-bb77-78714d00fed7 "PDF - 2.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,10 +303,10 @@ Electromagnetism in dielectric media
 Classic propagation of waves
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.2 MB]({{< baseurl >}}/resources/lec16))
+({{% resource_link bfa4762e-7eca-4521-1226-ecc66e426344 "PDF - 2.2 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean16))
+({{% resource_link 2783bc93-3878-4e88-9426-e53a967eaa8a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -312,10 +318,10 @@ Classic propagation of waves
 Interband absorption
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.4 MB]({{< baseurl >}}/resources/lec17))
+({{% resource_link 7da66b00-c7f1-58b8-b67f-6b82b25e2125 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean17))
+({{% resource_link c93d639a-643f-eb06-f378-d9f9854c4774 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -390,10 +396,10 @@ Spin valves, spin switches, and spin tunneling
 Excitons
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.4 MB]({{< baseurl >}}/resources/lec23))
+({{% resource_link 6c60b4a2-cd7c-a365-4de7-1fb11e5626f3 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean23))
+({{% resource_link 1ee0225f-846e-fb56-de3d-ea54ecfbf1ff "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -405,10 +411,10 @@ Excitons
 Luminescence
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0 MB]({{< baseurl >}}/resources/lec24))
+({{% resource_link 8f1e8507-42c8-a1a7-cf9a-d0409ad4ef26 "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean24))
+({{% resource_link 7b677e74-6cc2-03b7-1bd2-2cc7a9a2954c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -420,10 +426,10 @@ Luminescence
 Semiconductor quantum wells
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0 MB]({{< baseurl >}}/resources/lec25))
+({{% resource_link 1494fa88-caf2-73af-1db9-092d3ab8df63 "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/clean25))
+({{% resource_link a1e0ad49-be78-8f53-c7d7-0d46e5033f70 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

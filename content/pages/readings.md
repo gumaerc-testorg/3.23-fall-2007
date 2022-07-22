@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of required and recommended texts for
+  the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4497ad89-c1b5-2005-fb7a-73c5a6bccf73
 ---
@@ -12,7 +17,7 @@ The class is based on these required texts:
 Singleton, John. _Band Theory and Electronic Properties of Solids_. New York, NY: Oxford University Press USA, 2001. ISBN: 9780198506447.
 
 Fox, Mark. _Optical Properties of Solids_. New York, NY: Oxford University Press USA, 2002. ISBN: 9780198506126.  
-Errata can be found here (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.mark-fox.staff.shef.ac.uk/qo-errata.pdf)).
+Errata can be found here ([PDF](http://www.mark-fox.staff.shef.ac.uk/qo-errata.pdf)).
 
 Kittel, Charles. "Physical Theory of Ferromagnetic Domains." _Reviews of Modern Physics_ 21 (October 1949): 541-583.
 
