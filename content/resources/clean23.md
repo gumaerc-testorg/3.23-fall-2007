@@ -8,6 +8,7 @@ file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: "Fermi\u2019s Golden Rule"
 uid: 1ee0225f-846e-fb56-de3d-ea54ecfbf1ff
 ---
 Lecture presentation on optical processes processes, optical materials, the complex dielectric constant, Kramers-Kronig relations, interband absorption, direct and indirect transitions, Fermi’s golden rule, and the perturbing Hamiltonian.
-

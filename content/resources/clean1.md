@@ -9,6 +9,7 @@ file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Waves Mechanics
 uid: 829ab471-4bee-a805-6e22-cbf798022215
 ---
 Introductory lecture presentation on electrical, optical, and magnetic properties of materials. Includes an overview of the course and discussion of materials science, the physical origin of material properties, classical mechanics, quantum mechanics, particles, fields, waves, wave-particle duality, and  the Schrödinger equation.
-

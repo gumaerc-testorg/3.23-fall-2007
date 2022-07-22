@@ -6,6 +6,7 @@ file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ERIODICPERIODICPERIODICPERIODICPE
 uid: 8b6d8491-1e5d-9fe4-ea42-c3243313635d
 ---
 Lecture presentation on the tight-binding model, band structures, reciprocal lattices, periodic potential, and the Bloch theorem.
-

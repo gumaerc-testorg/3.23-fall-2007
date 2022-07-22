@@ -8,6 +8,7 @@ file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Inhomogenous Semiconductors
 uid: e1c4da90-c17f-c62f-4f6e-789dff91155a
 ---
 Lecture presentation on chemical potential as a function of T, population of impurity levels, equilibrium carrier densities in impure semiconductors, simplified expressions, the p-n junction, depletion layer/space charge, built-in voltage, and operation under bias and rectification.
-

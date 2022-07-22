@@ -5,6 +5,7 @@ file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Magnets 1
 uid: af04fffd-01b8-1a6e-3bc1-534b2adb3514
 ---
 Lecture handout on magnetic properties of materials.
-

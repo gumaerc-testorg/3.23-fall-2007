@@ -7,6 +7,7 @@ file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Homework #8 Solutions'
 uid: ee485cbc-1e36-ec4e-6739-7f832ad23d56
 ---
 Solutions to a homework assignment on the propagation equation in a non-dispersive medium, propagation in a dispersive medium, propagation of light in a conducting medium, and interband absorption.
-

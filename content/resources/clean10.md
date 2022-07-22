@@ -8,6 +8,7 @@ file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Tight-Binding
 uid: 1e9c164a-3eff-f4ba-9655-846180155a5c
 ---
 Lecture presentation on an explicit solution of the Bloch equation, energy bands, the Brillouin zone, Fermi surfaces, energy of molecules and solids, mean field approaches, Hartree and Hartree-Fock, spin-statistics, the Slater determinant, the Pauli principle, and the Huckel approach (LCAO for aromatic compounds).
-

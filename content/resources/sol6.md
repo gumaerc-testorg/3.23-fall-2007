@@ -6,6 +6,7 @@ file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Homework #6 Solutions'
 uid: 8af89c21-703a-c3b4-f1a4-8b93e6807ba2
 ---
 Solutions to a homework assignment on the thermodynamics of the free electron gas in 3D and the nearly free electron model.
-

@@ -6,6 +6,7 @@ file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Homework #12 Solutions'
 uid: 04005853-570a-deec-8410-8402bc611650
 ---
 Solutions to a homework assignment on average lifetime of excited carriers, laser oscillation, and power efficiency.
-

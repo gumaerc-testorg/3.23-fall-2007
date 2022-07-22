@@ -8,6 +8,7 @@ file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Think Outside the Box
 uid: d51c78e0-530c-bc5c-d514-00154d19f910
 ---
 Lecture presentation on the time-dependent Schrödinger equation, separation of variables, the stationary Schrödinger equation, wave functions and what to expect from them, free particles and particles a box, and the scanning tunneling microscope.
-

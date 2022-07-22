@@ -8,6 +8,7 @@ file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Anharmonicity
 uid: 24a5e9d4-b751-258b-bb77-78714d00fed7
 ---
 Lecture presentation on electromagnetism in dielectric media, p-n junctions, built-in voltage, rectification, Bloch oscillations, conductivity in semiconductors, electron transport at the nanoscale, phonons, vibrational free energy, the quasi-harmonic approximation, electron-phonon interactions, and phonon-phonon decays.
-
