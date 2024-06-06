@@ -5,6 +5,7 @@ description: Lecture presentation on semiconductor quantum wells, photoluminesce
   solid state lasers, plasmons, plasmonics, polarons, electron transfer, ferrous-ferric
   self-exchange, the color of gems, and inelastic light scattering.
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1494fa88caf273af1db9092d3ab8df63_lec25.pdf
+file_size: 1064607
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

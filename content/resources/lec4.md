@@ -6,6 +6,7 @@ description: "Lecture presentation on wave mechanics, commuting Hermitian operat
   s indetermination principle, linewidth broadening, spherical coordinates, angular\
   \ momentum, commutation relation, and spherical harmonics in real form."
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/c967fe072464ca7c67ff64bda47dbd1f_lec4.pdf
+file_size: 1424593
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

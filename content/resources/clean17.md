@@ -6,6 +6,7 @@ description: "Lecture presentation on interband absorption, polarization, transv
   \ optical coefficients, the complex index of refraction, modeling optical constants\
   \ with a damped harmonic oscillator, amorphous silica, and optical materials."
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/c93d639a643feb06f378d9f9854c4774_clean17.pdf
+file_size: 381725
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
