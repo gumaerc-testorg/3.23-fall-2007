@@ -6,6 +6,7 @@ description: Lecture presentation on band structure of direct-and indirect-gap s
   levels, the hydrogen model of donors, acceptor states, and temperature dependence
   of majority carriers.
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/64029afdc49d01163b301d550ab09934_clean13.pdf
+file_size: 423348
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

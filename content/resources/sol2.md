@@ -4,6 +4,7 @@ description: Solutions to a homework assignment on storing power in spinach, mol
   orbitals and the linear combination of atomic orbitals method (LCAO), and the spin
   of the electron.
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/4a3deb1f2c3b5117c4493f72312f885b_sol2.pdf
+file_size: 221680
 file_type: application/pdf
 learning_resource_types:
 - Assignments

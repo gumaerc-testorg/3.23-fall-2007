@@ -4,6 +4,7 @@ description: Solutions to a homework assignment on the propagation equation in a
   medium, propagation in a dispersive medium, propagation of light in a conducting
   medium, and interband absorption.
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/ee485cbc1e36ec4e67397f832ad23d56_sol8.pdf
+file_size: 174621
 file_type: application/pdf
 learning_resource_types:
 - Assignments

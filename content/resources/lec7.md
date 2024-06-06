@@ -5,6 +5,7 @@ description: Lecture presentation on Newtonian, Lagrangian, and Hamiltonian form
   groups and group symmetries, primitive unit cells, conventional unit cells, periodic
   boundary conditions, and the reciprocal lattice.
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/bdee98a0206ca9a769be9280799802c0_lec7.pdf
+file_size: 2072796
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

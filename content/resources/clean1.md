@@ -6,6 +6,7 @@ description: "Introductory lecture presentation on electrical, optical, and magn
   \ quantum mechanics, particles, fields, waves, wave-particle duality, and  the Schr\xF6\
   dinger equation."
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/829ab4714beea8056e22cbf798022215_clean1.pdf
+file_size: 1324984
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

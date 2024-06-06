@@ -5,6 +5,7 @@ description: "Lecture presentation on Fermi\u2019 s golden rule, joint density o
   \ adsorption in direct or indirect band gap SC, absorption above the band edge,\
   \ excitons and exciton absorption, luminescence, low-carrier density, and degeneracy."
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/7b677e746cc203b71bd22cc7a9a2954c_clean24.pdf
+file_size: 108469
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

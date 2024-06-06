@@ -5,6 +5,7 @@ description: Lecture presentation on vector space, eigenvalues and eigenstates a
   for a molecular system, bonding and antibonding states, potential energy surface
   of a molecule, vibrations at equilibrium, and the quantum harmonic oscillator.
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/992befec1e95f2c89bf48203a5b292d5_clean6.pdf
+file_size: 471615
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
