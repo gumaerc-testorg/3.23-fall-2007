@@ -5,6 +5,7 @@ description: Lecture presentation on chemical potential as a function of T, popu
   expressions, the p-n junction, depletion layer/space charge, built-in voltage, and
   operation under bias and rectification.
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/e1c4da90c17fc62f4f6e789dff91155a_lec14.pdf
+file_size: 2145662
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

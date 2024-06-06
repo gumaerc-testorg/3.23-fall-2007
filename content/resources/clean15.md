@@ -5,6 +5,7 @@ description: Lecture presentation on electromagnetism in dielectric media, p-n j
   electron transport at the nanoscale, phonons, vibrational free energy, the quasi-harmonic
   approximation, electron-phonon interactions, and phonon-phonon decays.
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/24a5e9d4b751258bbb7778714d00fed7_clean15.pdf
+file_size: 2415517
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

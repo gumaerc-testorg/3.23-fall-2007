@@ -5,6 +5,7 @@ description: Lecture presentation on an explicit solution of the Bloch equation,
   field approaches, Hartree and Hartree-Fock, spin-statistics, the Slater determinant,
   the Pauli principle, and the Huckel approach (LCAO for aromatic compounds).
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1e9c164a3efff4ba9655846180155a5c_clean10.pdf
+file_size: 703495
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

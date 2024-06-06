@@ -3,6 +3,7 @@ content_type: resource
 description: Solutions to a homework assignment on intrinsic semiconductors, p-doped
   semiconductors, and the p-n junction.
 file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/b31cbef9e33530bca919c4d77fbdb8d0_sol7.pdf
+file_size: 298879
 file_type: application/pdf
 learning_resource_types:
 - Assignments
