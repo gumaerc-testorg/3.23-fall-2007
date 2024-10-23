@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a homework assignment on nodal surfaces in the hydrogen
   atom, acoustic phonons in a 2D square lattice, and nuclear magnetic resonance.
-file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/5cea6e7b5dbf7459befcad1eb1e347bd_sol4.pdf
+file: /ol-ocw-studio-app/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/5cea6e7b5dbf7459befcad1eb1e347bd_sol4.pdf
 file_size: 356113
 file_type: application/pdf
 learning_resource_types:

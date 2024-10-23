@@ -4,7 +4,7 @@ description: "Lecture presentation on the time-dependent Schr\xF6dinger equation
   \ separation of variables, the stationary Schr\xF6dinger equation, wave functions\
   \ and what to expect from them, free particles and particles a box, and the scanning\
   \ tunneling microscope."
-file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/d51c78e0530cbc5cd51400154d19f910_lec2.pdf
+file: /ol-ocw-studio-app/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/d51c78e0530cbc5cd51400154d19f910_lec2.pdf
 file_size: 1870351
 file_type: application/pdf
 learning_resource_types:
