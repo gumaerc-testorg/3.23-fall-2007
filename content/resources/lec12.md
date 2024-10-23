@@ -4,7 +4,7 @@ description: Lecture presentation on the band structure of oxides, semiconductor
   late (fcc) transition metals, graphene and nanotubes, independent electron gas,
   DOS of massive and massless bands in 1, 2 and 3 dimensions, and statistics of classical
   and quantum particles, Fermi-Dirac distribution, and chemical potential.
-file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/378934ae2e6b4f8473d6d8ba84b23161_lec12.pdf
+file: /ol-ocw-studio-app/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/378934ae2e6b4f8473d6d8ba84b23161_lec12.pdf
 file_size: 1942270
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: "Lecture presentation on the Hamiltonian in a periodic potential, translation\
   \ operators, Bloch\u2019s theorem, Born-von Karman boundary conditions, and explicit\
   \ proof of Bloch\u2019s theorem."
-file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/6f349951d2f95813100f1a5c119f8ca4_clean8.pdf
+file: /ol-ocw-studio-app/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/6f349951d2f95813100f1a5c119f8ca4_clean8.pdf
 file_size: 249686
 file_type: application/pdf
 learning_resource_types:

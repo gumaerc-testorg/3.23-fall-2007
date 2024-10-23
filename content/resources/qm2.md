@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exercises on quantum mechanics provided as a study aid.
-file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1dd943df2d97200108c35c74eef0c342_qm2.pdf
+file: /ol-ocw-studio-app/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1dd943df2d97200108c35c74eef0c342_qm2.pdf
 file_size: 111044
 file_type: application/pdf
 learning_resource_types: []

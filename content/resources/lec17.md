@@ -5,7 +5,7 @@ description: "Lecture presentation on interband absorption, polarization, transv
   s law, the principle of least action, energy law, energy conservation, optical processes,\
   \ optical coefficients, the complex index of refraction, modeling optical constants\
   \ with a damped harmonic oscillator, amorphous silica, and optical materials."
-file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/7da66b00c7f158b8b67f6b82b25e2125_lec17.pdf
+file: /ol-ocw-studio-app/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/7da66b00c7f158b8b67f6b82b25e2125_lec17.pdf
 file_size: 1419697
 file_type: application/pdf
 learning_resource_types:
