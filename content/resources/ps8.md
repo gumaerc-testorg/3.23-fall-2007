@@ -3,7 +3,7 @@ content_type: resource
 description: Homework assignment on the propagation equation in a non-dispersive medium,
   propagation in a dispersive medium, propagation of light in a conducting medium,
   and interband absorption.
-file: /ol-ocw-studio-app/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/3e29c41474d8d706b8e68909a5325e5b_ps8.pdf
+file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/3e29c41474d8d706b8e68909a5325e5b_ps8.pdf
 file_size: 137369
 file_type: application/pdf
 learning_resource_types:
