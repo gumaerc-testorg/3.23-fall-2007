@@ -4,7 +4,7 @@ description: Solutions to a homework assignment on the scanning tunneling micros
   The purpose of this exercise is to show how from physical intuition we can create
   a physical model for a system, solve this model mathematically, and then compare
   the prediction of the model with experiment.
-file: /ol-ocw-studio-app/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1b8c6dc59310aa8fa9fe326d43ef1278_sol3.pdf
+file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/1b8c6dc59310aa8fa9fe326d43ef1278_sol3.pdf
 file_size: 277511
 file_type: application/pdf
 learning_resource_types:

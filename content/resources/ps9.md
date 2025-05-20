@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment on magnetic properties of materials.
-file: /ol-ocw-studio-app/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/c6cb598fcce38053f584daea794670c8_ps9.pdf
+file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/c6cb598fcce38053f584daea794670c8_ps9.pdf
 file_size: 205085
 file_type: application/pdf
 learning_resource_types:
