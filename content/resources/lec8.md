@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on the tight-binding model, band structures, reciprocal
   lattices, periodic potential, and the Bloch theorem.
-file: /courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/8b6d84911e5d9fe4ea42c3243313635d_lec8.pdf
+file: /ol-ocw-studio-app/courses/3-23-electrical-optical-and-magnetic-properties-of-materials-fall-2007/8b6d84911e5d9fe4ea42c3243313635d_lec8.pdf
 file_size: 3439154
 file_type: application/pdf
 learning_resource_types:
